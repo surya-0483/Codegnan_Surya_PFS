@@ -1,4 +1,5 @@
 '''
+
 Variables -->Variables is basically named storage location that is used to hold data in the memory, to make it simple it is the label which points out to a value -->storage placeholders
 Rules  for defining variables
 --> A-Z,a-z,0-9
