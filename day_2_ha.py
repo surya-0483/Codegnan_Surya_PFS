@@ -30,7 +30,7 @@ print(f) #output=(5+0j)
 #complex inputs cannot be converted into int and float
 '''
 
-#Rashion bill fee calculator case study on numeric data types:
+#Ration bill fee calculator case study on numeric data types:
 print("Rashion Bill :")
 print("------------------------------------------------------")
 dal_price=int(input("Enter the amount of dal per kg: "))
