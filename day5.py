@@ -74,8 +74,14 @@ else:
     print("no")
 
 user_input=input("Enter a letter: ")
-vowels=['a','e','i','o','u']
+vowels=['a','e','i','o','u','A','E','I','O','U']
 if user_input in vowels:
+    print(f'{user_input} is vowel')
+else:
+    print(f'{user_input} is consonent')
+
+user_input=input("Enter a letter: ")
+if user_input in 'AEIOUaeiou':
     print(f'{user_input} is vowel')
 else:
     print(f'{user_input} is consonent')
